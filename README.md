@@ -7,6 +7,7 @@ To play the game just download the file Snake Game.ipynb and run it :)
 
 ![image](https://user-images.githubusercontent.com/115581351/198736021-811a6dfc-6c62-4801-97b0-4b6ecef3f8c0.png)
 
+https://trello.com/b/N1EsJrSq
 
 # For Music
 To hear the provided music download the file .ogg and erase '#' on lines 10,11,12.
