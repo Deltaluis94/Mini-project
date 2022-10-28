@@ -31,4 +31,9 @@ random https://www.w3schools.com/python/module_random.asp
 
 pygame https://www.pygame.org/docs/
 
+# Further implementation
+Add assets to snake, board and food.
+Add scoreboard.
+Add decreasing delay to make the snake go faster.
+
 
