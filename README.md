@@ -1,6 +1,8 @@
 # Mini-project
 Snake Game
-Image.open(urlopen((https://assets.petco.com/petco/image/upload/f_auto,q_auto/21-443495_BallPython_WhiteBG_1080x720)))
+
+![images](https://user-images.githubusercontent.com/115581351/198727414-05fdd8c1-3366-4796-8000-88cdad3330cd.jpg)
+
 # General function of the game¶
 Snake is a game where a snake moves through a plane in 2D and eats food to grow. Once it consumes a unit of food it grows a unit. When the snake collides with itself the game is over and restarts.
 
