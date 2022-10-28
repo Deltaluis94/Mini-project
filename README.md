@@ -21,8 +21,10 @@ distance_food(pos1, pos2): Function to determine distance between food and snake
 up(), right(), down(), left(): Functions for input movement 
 
 # Libraries used
-turtle graphics https://docs.python.org/3/library/turtle.html
-random https://www.w3schools.com/python/module_random.asp
+turtle graphics https://docs.python.org/3/library/turtle.html 
+
+random https://www.w3schools.com/python/module_random.asp 
+
 pygame https://www.pygame.org/docs/
 
 # For Music
