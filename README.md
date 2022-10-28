@@ -4,7 +4,7 @@ To play the game just download the file Snake Game.ipynb and run it :)
 ![images](https://user-images.githubusercontent.com/115581351/198727414-05fdd8c1-3366-4796-8000-88cdad3330cd.jpg)
 
 # For Music
-To hear the provided music just erase '#' on lines 10,11,12.
+To hear the provided music download the file .ogg and erase '#' on lines 10,11,12.
 
 # General function of the game
 Snake is a game where a snake moves through a plane in 2D and eats food to grow. Once it consumes a unit of food it grows a unit. 
