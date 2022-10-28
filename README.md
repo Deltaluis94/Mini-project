@@ -3,6 +3,11 @@ To play the game just download the file Snake Game.ipynb and run it :)
 
 ![images](https://user-images.githubusercontent.com/115581351/198727414-05fdd8c1-3366-4796-8000-88cdad3330cd.jpg)
 
+# Trello schedule
+
+![image](https://user-images.githubusercontent.com/115581351/198736021-811a6dfc-6c62-4801-97b0-4b6ecef3f8c0.png)
+
+
 # For Music
 To hear the provided music download the file .ogg and erase '#' on lines 10,11,12.
 
