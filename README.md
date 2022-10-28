@@ -9,6 +9,10 @@ To play the game just download the file Snake Game.ipynb and run it :)
 
 https://trello.com/b/N1EsJrSq
 
+Small presentation
+
+https://www.canva.com/design/DAFQXPIzl-A/7sC-Dmu_LKLkJPsuLYXjcw/view?utm_content=DAFQXPIzl-A&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
+
 # For Music
 To hear the provided music download the file .ogg and erase '#' on lines 10,11,12.
 
