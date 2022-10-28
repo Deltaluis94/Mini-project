@@ -1,10 +1,10 @@
-# Mini-project
-Snake Game
+# SNAKE GAME
 
 ![images](https://user-images.githubusercontent.com/115581351/198727414-05fdd8c1-3366-4796-8000-88cdad3330cd.jpg)
 
-# General function of the game¶
-Snake is a game where a snake moves through a plane in 2D and eats food to grow. Once it consumes a unit of food it grows a unit. When the snake collides with itself the game is over and restarts.
+# General function of the game
+Snake is a game where a snake moves through a plane in 2D and eats food to grow. Once it consumes a unit of food it grows a unit. 
+When the snake collides with itself the game is over and restarts.
 
 # Function declaration
 initial(): Defines initial values
@@ -22,6 +22,8 @@ up(), right(), down(), left(): Functions for input movement
 
 # Libraries used
 turtle graphics https://docs.python.org/3/library/turtle.html
-random 
-pygame
+random https://www.w3schools.com/python/module_random.asp
+pygame https://www.pygame.org/docs/
 
+# For Music
+To hear the provided music just erase '#' on lines 10,11,12.
