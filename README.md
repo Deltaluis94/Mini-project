@@ -10,7 +10,7 @@ eat_food()
 random_food_pos()
 distance_food(pos1, pos2)
 
-#Libraries used
+# Libraries used
 turtle
 random
 pygame
